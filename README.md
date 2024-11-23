@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Water_softening
 
 Sooner or later all the salt in the vessel is dissolved so you'll need to take a peek now and then to see if a refill is needed.
 
-This project uses an ESP32 device with a HC-SR04 ultrasonic sensor to  measure a distance. The ESP32 is connected to the wireless network and delivers messages with the measured distance to a MQTT server.
+This project uses an ESP32 device with a HC-SR04 ultrasonic sensor to measure a distance. The ESP32 is connected to the wireless network and delivers messages with the measured distance to a MQTT server.
 
 ### TO DO
 
